@@ -1,5 +1,22 @@
 # markdown 笔记
 
+## 快捷键
+
+功能|快捷键
+:-:|:-----:
+加粗|Ctrl + B
+斜体|Ctrl + I
+引用|Ctrl + Q
+插入链接|Ctrl + L
+插入代码|Ctrl + K
+插入图片|Ctrl + G
+提升标题|Ctrl + H
+有序列表|Ctrl + O
+无序列表|Ctrl + U
+横线|Ctrl + R
+撤销|Ctrl + Z
+重做|Ctrl + Y
+
 ## 标题
 
     # 这是一级标题
@@ -77,28 +94,11 @@
 
     `code` //使用反引号
 
-代码块
+### 代码块
 
 ```
 code1
 code2
 ```
-
-## 快捷键
-
-功能|快捷键
-:-:|:-----:
-加粗|Ctrl + B
-斜体|Ctrl + I
-引用|Ctrl + Q
-插入链接|Ctrl + L
-插入代码|Ctrl + K
-插入图片|Ctrl + G
-提升标题|Ctrl + H
-有序列表|Ctrl + O
-无序列表|Ctrl + U
-横线|Ctrl + R
-撤销|Ctrl + Z
-重做|Ctrl + Y
 
 
