@@ -6,6 +6,7 @@
 - [git_book](git/git_book.md)
 - [markdown_book](markdown/markdown_book.md)
 - [docker](docker/docker_book.md)
-- [markdown_book](ssh/ssh_config.md)
+- [ssh_book](ssh/ssh_config.md)
+- [linux_book](linux/install_dplearning.md)
 
 
